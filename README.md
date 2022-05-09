@@ -37,3 +37,9 @@ Binary Indexed Tree\
 Monotonic Queue\
 Doubly-Linked List\
 Minimum Spanning Tree
+
+
+B站leetcode300题总结：
+https://www.bilibili.com/read/cv9904414?spm_id_from=333.999.0.0
+二分法总结：
+https://www.1point3acres.com/bbs/thread-891726-1-1.html
