@@ -82,11 +82,11 @@ LC124 Binary Tree Maximum Path Sum\
 LC235 Lowest Common Ancestor of a Binary Search Tree\
 LC236 Lowest Common Ancestor of a Binary Tree\
 LC250 Count Univalue Subtrees\
-LC333\
-LC100\
-LC104\
-LC105\
-LC106\
+LC333 Largest BST Subtree\
+LC100 Same Tree\
+LC104 Maximum Depth of Binary Tree\
+LC105 Construct Binary Tree from Preorder and Inorder Traversal\
+LC106 Construct Binary Tree from Inorder and Postorder Traversal\
 LC108\
 LC109\
 LC110\
