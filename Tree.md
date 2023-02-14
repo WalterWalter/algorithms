@@ -90,9 +90,9 @@ LC106 Construct Binary Tree from Inorder and Postorder Traversal\
 LC108 Convert Sorted Array to Binary Search Tree\
 LC109 Convert Sorted List to Binary Search Tree\
 LC110 Balanced Binary Tree\
-LC111\
-LC112\
-LC113\
+LC111 Minimum Depth of Binary Tree\
+LC112 Path Sum\
+LC113 Path Sum II\
 LC129\
 LC222\
 LC226\
