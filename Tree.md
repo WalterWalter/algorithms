@@ -94,9 +94,9 @@ LC111 Minimum Depth of Binary Tree\
 LC112 Path Sum\
 LC113 Path Sum II\
 LC129 Sum Root to Leaf Numbers\
-LC222\
-LC226\
-LC298\
-LC366\
-LC101\
+LC222 Count Complete Tree Nodes\
+LC226 Invert Binary Tree\
+LC298 Binary Tree Longest Consecutive Sequence\
+LC366 Find Leaves of Binary Tree\
+LC101 Symmetric Tree\
 
