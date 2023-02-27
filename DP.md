@@ -15,14 +15,13 @@ LC32 Longest Valid Parentheses\
 LC53 Maximum Subarray\
 LC62 Unique Paths\
 LC63 Unique Paths II\
-LC64\
-LC70\
+LC64 Minimum Path Sum\
+LC70 Climbing Stairs\
 LC85\
-LC91\
-LC95\
-LC96\
-LC120\
-LC152\
+LC91 Decode Ways\
+LC95 Unique Binary Search Trees\
+LC120 Triangle\
+LC152 Maximum Product Subarray\
 LC300\
 LC312\
 LC322\
