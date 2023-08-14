@@ -17,13 +17,31 @@ LC62 Unique Paths\
 LC63 Unique Paths II\
 LC64 Minimum Path Sum\
 LC70 Climbing Stairs\
-LC85\
+LC85 \
 LC91 Decode Ways\
 LC95 Unique Binary Search Trees\
 LC120 Triangle\
 LC152 Maximum Product Subarray\
-LC300\
-LC312\
-LC322\
+LC300 Longest Increasing Subsequence\
+LC312 Burst Balloons\
+LC322 Coin Change\
+
+LC121 Best Time to Buy and Sell Stock\
+LC122 Best Time to Buy and Sell Stock II\
+LC123 Best Time to Buy and Sell Stock III\
+LC188 Best Time to Buy and Sell Stock IV\
+LC309 Best Time to Buy and Sell Stock with Cooldown\
+LC198 House Robber\
+LC213\
+LC337\
+LC256\
+LC265\
+LC276\
+LC221\
+LC279\
+LC303\
+LC304\
+
+
 
 
