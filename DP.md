@@ -17,7 +17,7 @@ LC62 Unique Paths\
 LC63 Unique Paths II\
 LC64 Minimum Path Sum\
 LC70 Climbing Stairs\
-LC85 \
+LC85 Maximal Rectangle\
 LC91 Decode Ways\
 LC95 Unique Binary Search Trees\
 LC120 Triangle\
@@ -32,15 +32,14 @@ LC123 Best Time to Buy and Sell Stock III\
 LC188 Best Time to Buy and Sell Stock IV\
 LC309 Best Time to Buy and Sell Stock with Cooldown\
 LC198 House Robber\
-LC213\
-LC337\
-LC256\
-LC265\
-LC276\
-LC221\
-LC279\
-LC303\
-LC304\
+LC213 House Robber II\
+LC337 House Robber III\
+LC256 Paint House\
+LC265 Paint House II\
+LC276 Paint Fence\
+LC221 Maximal Square\
+LC279 Perfect Squares\
+LC303 Range Sum Query - Immutable\
 
 
 
